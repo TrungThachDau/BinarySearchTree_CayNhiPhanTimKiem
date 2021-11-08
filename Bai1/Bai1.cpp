@@ -221,6 +221,7 @@ void menu()
 	cout << "\7. Xuất nút lá ở mức k";
 	cout << "\n8. Xuất nút lá";
 	cout << "\n9. Tổng các nút";
+	cout << "\n10.Xuat cac so hoan thien";
 	cout << "\nChọn chức năng: ";
 }
 int main()
